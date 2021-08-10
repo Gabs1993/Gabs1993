@@ -1,9 +1,5 @@
 ### Olá! Eu sou o Gabriel e seja muito bem vindo ao meu GitHub ❤
 
-- 🔭 Full Stack
-- 🌱 Cursando o Boot Camp da Generation Brasil ❤❤❤
-- 😄 ele/dele
-
  <div>
   <a href="https://github.com/Gabs1993">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=Gabs1993&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
