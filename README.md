@@ -26,9 +26,6 @@
   <a href="https://azure.microsoft.com/en-us/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/>
   </a>
-  <a href="https://docs.microsoft.com/en-us/ef/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/entityframework/entityframework-original.svg" alt="entityframework" width="40" height="40"/>
-  </a>
 </div>
 
 ![Snake animation](https://github.com/Gabs1993/Gabs1993/blob/output/github-contribution-grid-snake.svg)
