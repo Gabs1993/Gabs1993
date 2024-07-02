@@ -12,6 +12,6 @@
   <a href="https://www.twitch.tv/nfr_gaabriel" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/gabriel-concei%C3%A7%C3%A3o-97b534214/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-![Snake animation](https://github.com/Gabs1993/Gabs1993/blob/output/github-contribution-grid-snake.svg)
+
 
 ##
