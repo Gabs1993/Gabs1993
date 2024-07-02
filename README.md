@@ -1,4 +1,4 @@
-### Olá! Eu sou o Gabriel e seja muito bem vindo ao meu GitHub ❤
+### Olá! Eu sou o Gabriel e seja muito bem vindo ao meu GitHub 
 
 <div>
   <a href="https://github.com/Gabs1993">
